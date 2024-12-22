@@ -1,0 +1,8 @@
+[
+    {"timestamp": "2024-12-22 17:39:44", "action": "Created", "path": "/home/ahmetu/bsm/test/testfile.txt"},
+    {"timestamp": "2024-12-22 17:39:44", "action": "Modified", "path": "/home/ahmetu/bsm/test"},
+    {"timestamp": "2024-12-22 17:39:44", "action": "Modified", "path": "/home/ahmetu/bsm/test/testfile.txt"},
+    {"timestamp": "2024-12-22 17:39:44", "action": "Modified", "path": "/home/ahmetu/bsm/test"}
+]
+{"timestamp": "2024-12-22 23:06:00", "action": "Modified", "path": "/home/ahmetu/bsm/test/testfile.txt"}
+{"timestamp": "2024-12-22 23:06:00", "action": "Modified", "path": "/home/ahmetu/bsm/test"}
